@@ -17,7 +17,7 @@
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25px"/> Based in <strong>Kochi, Kerala 🇮🇳</strong></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"/> Portfolio: <strong>www.gintogthomas.in</strong></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25px"/> Contact: <strong>gintogthomas@gmail.com</strong></li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px"/> Python Django Trainer with <strong>2+ years experience</strong></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px"/> Python Django Developer and Trainer with <strong>2+ years experience</strong></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25px"/> Exploring <strong>Machine Learning & AI</strong></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25px"/> Passionate about <strong>Building digital products & teaching</strong></li>
 </ul>
